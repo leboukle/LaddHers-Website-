@@ -1,0 +1,15 @@
+Real photography goes in the subfolders here, not this root:
+
+  hero/                              full-bleed hero backgrounds
+  architecture/                      arches, courtyards, library/reading-room interiors
+  experiences/                       dinner tables, salons, roundtable settings
+  partners/                          partner/sponsor logos on neutral backgrounds
+  events/cocktails-connections/      recap photos from that gathering
+  events/women-and-wealth/           recap photos from that gathering
+  events/financial-wellness/         recap photos from that gathering
+
+Pass the resulting path (e.g. "/images/hero/courtyard.jpg") as the `src`
+prop on components/ImagePlaceholder.js — it renders the real image in
+place of the designed placeholder automatically. See that file's top
+comment for the full photography direction (mood, color, and how people
+should be represented).

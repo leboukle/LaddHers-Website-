@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "C:\\Users\\lebou\\OneDrive\\Businesses\\LaddHers\\LaddHers Website\\.claude\\dev-launch.cmd",
+      "runtimeArgs": [],
+      "port": 3000
+    }
+  ]
+}
